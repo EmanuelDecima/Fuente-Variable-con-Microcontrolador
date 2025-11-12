@@ -1,0 +1,17 @@
+LTspice 24.1.8 for Windows
+Circuit: G:\Mi unidad\KICAD_Projects\Fuente-Variable-con-Microcontrolador-\Simulaciones\BuckPrincipal-Bootstrap.net
+Start Time: Wed Nov 12 01:41:32 2025
+solver = Normal
+Maximum thread count: 4
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 16.574 seconds.
+
+Files loaded:
+G:\Mi unidad\KICAD_Projects\Fuente-Variable-con-Microcontrolador-\Simulaciones\BuckPrincipal-Bootstrap.net
+C:\Users\EmanuelDecima\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\EmanuelDecima\AppData\Local\LTspice\lib\cmp\standard.bjt
+C:\Users\EmanuelDecima\AppData\Local\LTspice\lib\cmp\standard.mos
+
