@@ -115,7 +115,7 @@ El repositorio puede incluir:
 
 - Esquemático del circuito  
 
-![Esquematico](docs/Esquematico)
+![Esquematico](docs/Esquematico.png)
 
 - Simulación (Proteus / LTSpice / similar)  
 
