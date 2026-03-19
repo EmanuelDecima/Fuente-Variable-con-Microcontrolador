@@ -114,6 +114,9 @@ También puede escalarse a sistemas más complejos utilizados en industria y aut
 El repositorio puede incluir:
 
 - Esquemático del circuito  
+
+![Esquematico](docs/Esquematico)
+
 - Simulación (Proteus / LTSpice / similar)  
 
 ---
@@ -121,5 +124,4 @@ El repositorio puede incluir:
 ## 👨‍💻 Autor
 
 **Emanuel Decima**  
-Estudiante avanzado de Ingeniería Electrónica  
 ---
