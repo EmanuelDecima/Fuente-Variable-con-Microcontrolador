@@ -1,6 +1,6 @@
-# 🔌 Fuente Variable Controlada por Microcontrolador
+# Fuente Variable Controlada por Microcontrolador
 
-## 📌 Descripción general
+## Descripción general
 
 Este proyecto consiste en el desarrollo de una **fuente de alimentación variable controlada digitalmente mediante un microcontrolador**, permitiendo ajustar el voltaje de salida de forma precisa y programable.
 
@@ -15,7 +15,7 @@ Este tipo de soluciones es ampliamente utilizado en laboratorio, testing electr�
 
 ---
 
-## ⚙️ Objetivos del proyecto
+## Objetivos del proyecto
 
 - Diseñar una fuente de alimentación con salida variable  
 - Implementar control digital del voltaje mediante microcontrolador  
@@ -25,7 +25,7 @@ Este tipo de soluciones es ampliamente utilizado en laboratorio, testing electr�
 
 ---
 
-## 🧠 Principio de funcionamiento
+## Principio de funcionamiento
 
 El sistema se basa en el uso de un microcontrolador que genera una señal PWM para controlar el nivel de tensión de salida.
 
@@ -41,26 +41,26 @@ Este enfoque es común en fuentes modernas controladas digitalmente. :contentRef
 
 ---
 
-## 🔌 Arquitectura del sistema
+## Arquitectura del sistema
 
-### 🧠 Control
+### Control
 - Microcontrolador (generación de PWM y lógica de control)
 
-### ⚡ Etapa de potencia
+### Etapa de potencia
 - Regulador de tensión (lineal o con control externo)  
 - Etapa de adaptación de señal  
 
-### 🎛️ Interfaz de usuario
+### Interfaz de usuario
 - Pulsadores / potenciómetro / entrada digital  
 - (Opcional) Display para visualización  
 
-### 🔄 Señales principales
+### Señales principales
 - PWM → control de tensión  
 - ADC (si aplica) → lectura de voltaje o referencia  
 
 ---
 
-## 🔄 Funcionamiento del sistema
+## Funcionamiento del sistema
 
 1. El usuario define el voltaje deseado  
 2. El microcontrolador genera una señal PWM proporcional  
@@ -69,7 +69,7 @@ Este enfoque es común en fuentes modernas controladas digitalmente. :contentRef
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - Microcontrolador (STM32 / ARM Cortex M4)  
 - Programación en C/C++ (o entorno Arduino)  
@@ -78,7 +78,7 @@ Este enfoque es común en fuentes modernas controladas digitalmente. :contentRef
 
 ---
 
-## 📊 Características del sistema
+## Características del sistema
 
 - Ajuste de voltaje variable  
 - Control digital  
@@ -87,7 +87,7 @@ Este enfoque es común en fuentes modernas controladas digitalmente. :contentRef
 
 ---
 
-## 🧪 Aplicaciones
+## Aplicaciones
 
 - Laboratorios de electrónica  
 - Testing de circuitos  
@@ -98,7 +98,7 @@ También puede escalarse a sistemas más complejos utilizados en industria y aut
 
 ---
 
-## 🚀 Posibles mejoras
+## Posibles mejoras
 
 - Medición de corriente (fuente CV/CC)  
 - Implementación de display (LCD / OLED)  
@@ -109,7 +109,7 @@ También puede escalarse a sistemas más complejos utilizados en industria y aut
 
 ---
 
-## 📷 Documentación del proyecto
+## Documentación del proyecto
 
 El repositorio puede incluir:
 
